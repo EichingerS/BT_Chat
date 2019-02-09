@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\ea237ec833916f2dcb89776a411df46798bec289\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca697c9cc3ae406b28e5975f18c10c280dffea76\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\0a191d19a7f92b5c7ec6e823ee2715795d58f4da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_1b4c494646a4385d492a436888eecb2e0392bd24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\ea237ec833916f2dcb89776a411df46798bec289\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_ca697c9cc3ae406b28e5975f18c10c280dffea76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_c8295d3f5bfa591c857bb4a173ee6117dc02567f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\fd48de7140e7ae8cb1eedee7c4c6a0e61d728ecf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_4d5ac1a8a2282465fe40ab5607125fb6f8ad8970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\9e2da09a05f7e74c74beab4434bc34c0017184a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_a8d7b495ca37974eefd3d05c7fdb6612404714e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cbe10c472b093d243df0ab261e48295d52118613">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a77f47695d0df1e82e6ca5837e0a1775e5a5cbf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\common-1.0.0_c8295d3f5bfa591c857bb4a173ee6117dc02567f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\9e2da09a05f7e74c74beab4434bc34c0017184a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8d7b495ca37974eefd3d05c7fdb6612404714e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\common-1.0.0_0f67f05fa0e365fe83af6c9d33dd0a5a8076e583.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\fd48de7140e7ae8cb1eedee7c4c6a0e61d728ecf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d5ac1a8a2282465fe40ab5607125fb6f8ad8970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_0f67f05fa0e365fe83af6c9d33dd0a5a8076e583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\9168f932379702f95c1bef6227a472e3efaae5bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02c5a2956dbb90336661cd1689ebf366fdce989d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\9168f932379702f95c1bef6227a472e3efaae5bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_02c5a2956dbb90336661cd1689ebf366fdce989d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\6dd24828098d9089cfc9a475d14127757bb97d48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_d266a18fa2982c680a9c1c30ba52746f6b8ef20e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\6dd24828098d9089cfc9a475d14127757bb97d48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d266a18fa2982c680a9c1c30ba52746f6b8ef20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\878ccc50005a403452bc1ae4f352e2f9bebf8744\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_076be3ddd7a0b121c6c7b7e4b7d86ce1a72ed266.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\0a191d19a7f92b5c7ec6e823ee2715795d58f4da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b4c494646a4385d492a436888eecb2e0392bd24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\878ccc50005a403452bc1ae4f352e2f9bebf8744\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_076be3ddd7a0b121c6c7b7e4b7d86ce1a72ed266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f4b8709b8f612776f28e60e97a36472898d86bd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\e351345f33aa4c83a90b56250f64e2d26b363a49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_2f4abd9e67e56fbb35e3ac8841bf0bddc8b37c9a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\51020a9be8507c61e6c732646d9de59010d3b399\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b95d5da07c97ee5abceae6d5a27eb1b7933a6346\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\51020a9be8507c61e6c732646d9de59010d3b399\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_b95d5da07c97ee5abceae6d5a27eb1b7933a6346.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_3533bc15a330d85fcd941e82f61820d65ab2b871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\e351345f33aa4c83a90b56250f64e2d26b363a49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f4abd9e67e56fbb35e3ac8841bf0bddc8b37c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_3533bc15a330d85fcd941e82f61820d65ab2b871.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\06530b4a54564ff425758527cb7cbc6fd316619a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c90d3eec97b699368c21c493ceab6932da9fb2e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\06530b4a54564ff425758527cb7cbc6fd316619a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_c90d3eec97b699368c21c493ceab6932da9fb2e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\44255ddd4d9281e44c3e83408f66c7b6e0fb7bdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e490dd11c4ed36180b67806185a5762bcba889d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sebastian\.android\build-cache\21311adc368ce1273dc9b4a598d69a6e72570ca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5e0edf7dc0e6bdc8254f328d826d09398fd498c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\44255ddd4d9281e44c3e83408f66c7b6e0fb7bdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_e490dd11c4ed36180b67806185a5762bcba889d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sebastian\.android\build-cache\21311adc368ce1273dc9b4a598d69a6e72570ca3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sebastian\Documents\Mikromodelle\BT_Fernsteuerung\BT_Chat\Application\build\intermediates\pre-dexed\debug\classes_a5e0edf7dc0e6bdc8254f328d826d09398fd498c.jar" />
+    </item>
+
+</items>

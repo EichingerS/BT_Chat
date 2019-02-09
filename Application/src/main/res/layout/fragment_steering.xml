@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="431dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:orientation="horizontal">
+
+
+            <RadioButton
+                android:id="@+id/btn_RL"
+                style="@android:style/Widget.CompoundButton.RadioButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:clickable="true"
+                android:text="RL"
+                android:textAlignment="viewStart" />
+
+
+            <RadioButton
+                android:id="@+id/btn_WB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:clickable="true"
+                android:text="WB" />
+
+            <RadioButton
+                android:id="@+id/btn_LH"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:clickable="true"
+                android:text="LH" />
+
+            <RadioButton
+                android:id="@+id/btn_BL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:text="BL" />
+
+            <RadioButton
+                android:id="@+id/btn_BR"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:text="BR" />
+
+            <RadioButton
+                android:id="@+id/btn_AL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:text="AL" />
+
+            <RadioButton
+                android:id="@+id/btn_FL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:text="FL" />
+
+            <RadioButton
+                android:id="@+id/btn_NL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:text="NL" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_left"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="left" />
+
+            <SeekBar
+                android:id="@+id/steer_seekBar"
+                style="@android:style/Widget.SeekBar"
+                android:layout_width="148dp"
+                android:layout_height="60dp"
+                android:layout_weight="3" />
+
+            <Button
+                android:id="@+id/btn_right"
+                android:layout_width="1dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="R" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="161dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_forward"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:text="forward" />
+
+        <SeekBar
+            android:id="@+id/seekBar3"
+            style="@android:style/Widget.SeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_above="@+id/btn_backward"
+            android:layout_below="@+id/btn_forward"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="61dp"
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="70dp"
+            android:rotation="270" />
+
+        <Button
+            android:id="@+id/btn_backward"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginBottom="0dp"
+            android:text="backward" />
+    </RelativeLayout>
+</LinearLayout>
